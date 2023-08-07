@@ -1,0 +1,14 @@
+C:\Users\skla\source\repos\jwtTokens\bin\Release\netcoreapp2.2\jwtTokens.deps.json
+C:\Users\skla\source\repos\jwtTokens\bin\Release\netcoreapp2.2\jwtTokens.runtimeconfig.json
+C:\Users\skla\source\repos\jwtTokens\bin\Release\netcoreapp2.2\jwtTokens.runtimeconfig.dev.json
+C:\Users\skla\source\repos\jwtTokens\bin\Release\netcoreapp2.2\jwtTokens.dll
+C:\Users\skla\source\repos\jwtTokens\bin\Release\netcoreapp2.2\jwtTokens.pdb
+C:\Users\skla\source\repos\jwtTokens\obj\Release\netcoreapp2.2\jwtTokens.csprojAssemblyReference.cache
+C:\Users\skla\source\repos\jwtTokens\obj\Release\netcoreapp2.2\jwtTokens.csproj.CoreCompileInputs.cache
+C:\Users\skla\source\repos\jwtTokens\obj\Release\netcoreapp2.2\jwtTokens.RazorAssemblyInfo.cache
+C:\Users\skla\source\repos\jwtTokens\obj\Release\netcoreapp2.2\jwtTokens.RazorAssemblyInfo.cs
+C:\Users\skla\source\repos\jwtTokens\obj\Release\netcoreapp2.2\jwtTokens.AssemblyInfoInputs.cache
+C:\Users\skla\source\repos\jwtTokens\obj\Release\netcoreapp2.2\jwtTokens.AssemblyInfo.cs
+C:\Users\skla\source\repos\jwtTokens\obj\Release\netcoreapp2.2\jwtTokens.RazorTargetAssemblyInfo.cache
+C:\Users\skla\source\repos\jwtTokens\obj\Release\netcoreapp2.2\jwtTokens.dll
+C:\Users\skla\source\repos\jwtTokens\obj\Release\netcoreapp2.2\jwtTokens.pdb
